@@ -1,6 +1,6 @@
 echo off
 cls
-title "Julchen ist Langweilig | https://github.com/Komischerboy"
+title "Julchen ist Langweilig | https://github.com/akaJuliaan"
 setlocal enabledelayedexpansion
 
 call set /a a=0
